@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FA49E0D0221AC21900D1CA28 /* DemoViewApp.podspec in Resources */ = {isa = PBXBuildFile; fileRef = FA49E0CF221AC21900D1CA28 /* DemoViewApp.podspec */; };
 		FAC915762215480A00F6E961 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC915752215480A00F6E961 /* AppDelegate.swift */; };
 		FAC915782215480A00F6E961 /* LoginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAC915772215480A00F6E961 /* LoginController.swift */; };
 		FAC9157B2215480A00F6E961 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAC915792215480A00F6E961 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA49E0CF221AC21900D1CA28 /* DemoViewApp.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = DemoViewApp.podspec; sourceTree = SOURCE_ROOT; };
 		FAC915722215480A00F6E961 /* DemoViewApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoViewApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAC915752215480A00F6E961 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FAC915772215480A00F6E961 /* LoginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FAC9157E2215480C00F6E961 /* LaunchScreen.storyboard */,
 				FAC915812215480C00F6E961 /* Info.plist */,
 				FAC915872215481E00F6E961 /* DemoViewApp.swift */,
+				FA49E0CF221AC21900D1CA28 /* DemoViewApp.podspec */,
 			);
 			path = DemoViewApp;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA49E0D0221AC21900D1CA28 /* DemoViewApp.podspec in Resources */,
 				FAC915802215480C00F6E961 /* LaunchScreen.storyboard in Resources */,
 				FAC9157D2215480C00F6E961 /* Assets.xcassets in Resources */,
 				FAC9157B2215480A00F6E961 /* Main.storyboard in Resources */,

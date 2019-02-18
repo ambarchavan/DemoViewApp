@@ -30,6 +30,5 @@ public class LoginController: UIViewController {
         let password = passwordTxtFld.text
         print("username: \(String(describing: username)) :: password: \(String(describing: password))")
     }
-    
 }
 

@@ -8,11 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class LoginController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        let fantasticView = DemoViewApp(frame: self.view.bounds)
+        
+        self.view.addSubview(fantasticView)
     }
 
 

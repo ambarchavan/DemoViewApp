@@ -8,7 +8,7 @@
 
 import UIKit
 
-class DemoViewApp : UIView {
+public class DemoViewApp : UIView {
     let colors : [UIColor] = [.red, .orange, .yellow, .green, .blue, .purple]
     
     var colorCounter = 0
